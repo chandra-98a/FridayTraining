@@ -1,0 +1,2 @@
+# FridayTraining
+git and github
