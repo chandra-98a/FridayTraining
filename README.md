@@ -1,2 +1,3 @@
 # FridayTraining
-git and github
+#git and github
+Training done by the end of the day
